@@ -68,7 +68,7 @@ body {
 
 main {
   background-color: var(--clr-white);
-  border-radius: 1rem;
+  border-radius: 2rem;
 }
 
 .container {
@@ -236,7 +236,7 @@ p span {
     place-content: center;
   }
   .subscribtion img {
-    border-radius: 1rem;
+    border-radius: 2rem;
   }
 
   .nasrat {
